@@ -3,4 +3,4 @@ Mit første repository til aflevering af torsdagsopgaverne i uge 1. Emnet for de
 
 Navn: Nikoonam Nabavi-Monfared
 
-Skolemail: cph-nn240@cphbusiness.dk
+Studiemail: cph-nn240@cphbusiness.dk
